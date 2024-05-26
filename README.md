@@ -65,9 +65,6 @@ Cette application To-Do List est développée en Python à l'aide de la biblioth
    - Changez le thème de l'application (clair ou sombre).
    - Activez ou désactivez les notifications pour les rappels de tâches.
 
-## Contribuer
-
-Les contributions sont les bienvenues ! Si vous avez des suggestions ou des améliorations, veuillez ouvrir une issue ou soumettre une pull request.
 
 ## Licence
 
