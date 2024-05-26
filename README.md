@@ -25,7 +25,7 @@ Cette application To-Do List est développée en Python à l'aide de la biblioth
 
 1. Clonez le dépôt GitHub :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/Legoman46A5/SmartPy.git
     cd votre-repo
     ```
 
