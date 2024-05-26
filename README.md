@@ -79,4 +79,4 @@ Merci à tous ceux qui ont contribué à ce projet et aux bibliothèques open-so
 
 ---
 
-*Développé avec ❤️ par [Legoman46A5]*
+*Développé par [Legoman46A5]*
