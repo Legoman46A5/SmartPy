@@ -20,7 +20,6 @@ Cette application To-Do List est développée en Python à l'aide de la biblioth
 - Python 3.x
 - Bibliothèque `tkinter` (généralement incluse avec Python)
 - Bibliothèque `tkcalendar`
-- Bibliothèque `json`
 
 ### Étapes d'installation
 
